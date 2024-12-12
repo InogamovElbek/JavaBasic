@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27ea5fee-4a87-4f9d-a10b-c24ee52baedd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../bottodo/bottodo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Buttons/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buttons/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sql/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sql/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sql/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sql/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sql/src/main/resources/test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Sql/src/main/resources/test.sql" afterDir="false" />
+    <list default="true" id="b4369a99-9747-458a-acc9-6a176b7af77c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../MyJavaExamples" beforeDir="false" afterPath="$PROJECT_DIR$/../MyJavaExamples" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -41,7 +37,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2pveZLWJmU6BcjM5iCpLIZOdDv0" />
+  <component name="ProjectId" id="2pvfDr2Gm08U460AxLB06ZlIAbN" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -51,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -73,12 +70,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="27ea5fee-4a87-4f9d-a10b-c24ee52baedd" name="Changes" comment="" />
-      <created>1733651033609</created>
+      <changelist id="b4369a99-9747-458a-acc9-6a176b7af77c" name="Changes" comment="" />
+      <created>1733651354290</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1733651033609</updated>
-      <workItem from="1733651034555" duration="319000" />
+      <updated>1733651354290</updated>
+      <workItem from="1733651355414" duration="3692000" />
     </task>
     <servers />
   </component>
